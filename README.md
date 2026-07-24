@@ -62,10 +62,10 @@ Agente en LangGraph que lee alertas bancarias desde Gmail, extrae y categoriza t
 ## Certificaciones
 
 - Intermediate Machine Learning — Kaggle
-- Google Prompting Essentials — Google (Coursera)
-- Python Data Structures — University of Michigan (Coursera)
-- Introduction to Retrieval Augmented Generation (RAG) — Duke University (Coursera)
-- AI Agents in LangGraph — DeepLearning.AI (Coursera)
+- Google Prompting Essentials — Google 
+- Python Data Structures — University of Michigan 
+- Introduction to Retrieval Augmented Generation (RAG) — Duke University
+- AI Agents in LangGraph — DeepLearning.AI
 
 ---
 
