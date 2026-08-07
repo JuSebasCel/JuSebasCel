@@ -47,18 +47,6 @@ Me interesa particularmente entender cómo llevar sistemas de IA de un prototipo
 
 ---
 
-## Proyectos Destacados
-
-### [RAG Scientific Papers (Research Assistant)](https://github.com/JuSebasCel/Research-Assistant)
-
-Sistema RAG para análisis y consulta de artículos científicos en PDF. Arquitectura Clean Architecture, búsqueda híbrida (BM25 + vectorial) sobre Qdrant, extracción estructurada de PDFs con Docling, y generación de respuestas con citas obligatorias usando Gemini.
-
-### [Expense Insights Agent](https://github.com/JuSebasCel/Expense-Insights-Agent)
-
-Agente en LangGraph que lee alertas bancarias desde Gmail, extrae y categoriza transacciones con salida estructurada del LLM, y pausa para pedir confirmación humana cuando la categoría es ambigua (human-in-the-loop), antes de generar un dashboard de gastos.
-
----
-
 ## Certificaciones
 
 - Intermediate Machine Learning — Kaggle
